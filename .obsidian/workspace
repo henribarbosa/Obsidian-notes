@@ -1,0 +1,132 @@
+{
+  "main": {
+    "id": "26d0ce7f94f56c7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "94013f5977aef700",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Bibliography/Liu, van Wachem - 2019 - Comprehensive assessment of the accuracy of CFD-DEM simulations of bubbling fluidized beds.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7cc0b6151a3d1f4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "00c40049c002b04f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eab1af7408c4ed98",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c6eb3e92f2b8415d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2c54cf20d5a2c280",
+    "type": "split",
+    "children": [
+      {
+        "id": "28a606a976842d67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f01fe5945c2fea44",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bibliography/Liu, van Wachem - 2019 - Comprehensive assessment of the accuracy of CFD-DEM simulations of bubbling fluidized beds.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aaa1fd9d632ba310",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "5c0e9d1b44e094e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16752a6246dde8a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Parametros.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "94013f5977aef700",
+  "lastOpenFiles": [
+    "Bibliography/Liu, van Wachem - 2019 - Comprehensive assessment of the accuracy of CFD-DEM simulations of bubbling fluidized beds.md",
+    "Zettelkasten/Aplicações.md",
+    "Templates/Normal.md",
+    "Templates/MOC.md",
+    "Zettelkasten/Resultados.md",
+    "Zettelkasten/Parametros.md",
+    "Zettelkasten/Vantagens micro leito fluidizado.md",
+    "Bibliography/@StateoftheartHydrodynamicsGassolid.md",
+    "Bibliography/@qieCharacteristicsApplicationsMicro2022.md",
+    "Bibliography/@ejeianDesignApplicationsMEMS2019.md"
+  ]
+}

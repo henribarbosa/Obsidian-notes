@@ -1,0 +1,12 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Zettelkesting",
+  "attachmentFolderPath": "Files",
+  "spellcheckLanguages": [
+    "pt-BR",
+    "en-US"
+  ],
+  "promptDelete": false
+}

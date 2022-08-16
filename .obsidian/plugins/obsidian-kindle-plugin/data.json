@@ -1,0 +1,12 @@
+{
+  "amazonRegion": "global",
+  "highlightsFolder": "Bibliography",
+  "lastSyncMode": "my-clippings",
+  "isLoggedIn": false,
+  "syncOnBoot": false,
+  "downloadBookMetadata": false,
+  "lastSyncDate": "2022-07-02T14:01:22.938Z",
+  "fileTemplate": "{{date}} {{time}}\n\nStatus: #MOC\n\nTags:\n\n# {{title}}\n## Metadata\n{% if authorUrl %}\n* Author: [{{author}}] ({{authorUrl}})\n{% elif author %}\n* Author: [[{{author}}]]\n{% endif %}\n{% if asin %}* ASIN: {{asin}}{% endif %}\n{% if isbn %}* ISBN: {{isbn}}{% endif %}\n{% if pages %}* Pages: {{pages}}{% endif %}\n{% if publication %}* Publication: {{publication}}{% endif %}\n{% if publisher %}* Publisher: {{publisher}}{% endif %}\n{% if url %}* Reference: {{url}}{% endif %}\n{% if appLink %}* [Kindle link]({{appLink}}){% endif %}\n\n\n## Main topics\n\n## Highlights\n{{highlights}}",
+  "fileNameTemplate": "{{shortTitle}}",
+  "highlightTemplate": "{{ text }} - location: [{{ location }}]({{ appLink }})\n\n{% if note %}{{note}}{% endif %}\n\n---"
+}
