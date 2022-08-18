@@ -6,7 +6,7 @@ Tags: #MFB
 
 # Gas back-mixing
 
-
+Related to the permanence time of the gas in the fluidized bed. 
 
 
 
@@ -16,3 +16,4 @@ Tags: #MFB
 ---
 # References
 
+Conditioning
