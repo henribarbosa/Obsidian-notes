@@ -30,6 +30,8 @@ Compilação de resultados experimentais anteriores para entender as caracterist
 * "Gas backmixing"
 	* Baixo tempo de residência do gás comparado à leitos maiores, comportamento de plugs
 	* Pouco retorno de gás é ideal para reações que se busca produtos intermediários em que é necessário se controlar o tempo de permanência com mais precisão
-	* 
+* Regimes de fluidização
+	* Menor $D/d$  reduz as zonas de fluidização borbulhante e "Slugging" até encontrar uma zona não fluidizável
+	* Efeitos mais pronuniados em partículas de tipo A, que t
 
 Apresenta correlações experimentais sobre velocidades de mínima fluidização $U_{mf}$ , borbulhamento $U_{mb}$ , e outras velocidades de interesse para leitos estreitos
