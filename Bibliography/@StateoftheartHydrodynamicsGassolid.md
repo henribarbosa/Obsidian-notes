@@ -18,9 +18,10 @@ Compilação de resultados experimentais anteriores para entender as caracterist
 * Fração volumétrica de sólidos
 	* ![[Pasted image 20220818094649.png]]
 	* Menor fração volumétrica de sólidos na mínima fluidização devido à força da parede, mais pronunciada em partículas do tipo A (maior força coesiva e influência das paredes)
-* Velocidade de mínima fluidização
+* Velocidade mínima de fluidização ($U_mf$)
 	* Aumenta quanto menor a razão entre o diâmetro do leito e das partículas
 	* Pode ser impeditiva em leitos muito pequenos (D/d<10) dependendo das caracteristícas das partículas
-	* 
+* Velocidade mínima de borbulhamento ($U_mb$)
+	* Semelhante à $U_mf$ 
 
 Apresenta correlações experimentais sobre velocidades de mínima fluidização $U_{mf}$ , borbulhamento $U_{mb}$ , e outras velocidades de interesse para leitos estreitos
