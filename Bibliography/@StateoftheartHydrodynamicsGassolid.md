@@ -1,7 +1,7 @@
 ---
 title: State-of-the-art hydrodynamics of gas-solid micro fluidized beds | Elsevier Enhanced Reader
 authors: 
-year: 
+year: 2020
 ---
 Tags: #correlations #uses
 
@@ -16,6 +16,7 @@ Compilação de resultados experimentais anteriores para entender as caracterist
 	* Histerese mais pronunciada quanto menor o leito, maior influência das paredes
 	* Critério estabelecido para relação entre diâmetros, pode haver relação da densidade das partículas mas não há dados para essa avaliação
 * Fração volumétrica de sólidos
-	* 
+	* ![[Pasted image 20220818094649.png]]
+	* Menor fração volumétrica de sólidos na mí
 
 Apresenta correlações sobre velocidades de mínima fluidização $U_{mf}$ , borbulhamento $U_{mb}$ , e outras velocidades de interesse para leitos estreitos
