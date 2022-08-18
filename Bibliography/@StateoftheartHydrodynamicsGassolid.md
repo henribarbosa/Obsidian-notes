@@ -17,6 +17,7 @@ Compilação de resultados experimentais anteriores para entender as caracterist
 	* Critério estabelecido para relação entre diâmetros, pode haver relação da densidade das partículas mas não há dados para essa avaliação
 * Fração volumétrica de sólidos
 	* ![[Pasted image 20220818094649.png]]
-	* Menor fração volumétrica de sólidos na mí
+	* Menor fração volumétrica de sólidos na mínima fluidização devido à força da parede, mais pronunciada em partículas do tipo A (maior força coesiva e influência das paredes)
+	* 
 
 Apresenta correlações sobre velocidades de mínima fluidização $U_{mf}$ , borbulhamento $U_{mb}$ , e outras velocidades de interesse para leitos estreitos
