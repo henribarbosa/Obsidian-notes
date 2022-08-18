@@ -5,6 +5,8 @@ year:
 ---
 Tags: #correlations
 
-Uso de micro leitos fluidizados como reatores químicos (reações químicas )
+Uso de micro leitos fluidizados como reatores químicos (reações químicas) com as vantagens:
+* Aquecimento e tranferência de massa mais rápidos
+* Temperatura uniforme
 
 Apresenta correlações sobre velocidades de mínima fluidização $U_{mf}$ , borbulhamento $U_{mb}$ , e outras velocidades de interesse para leitos estreitos
