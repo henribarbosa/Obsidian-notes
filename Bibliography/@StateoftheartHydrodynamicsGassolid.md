@@ -22,7 +22,9 @@ Compilação de resultados experimentais anteriores para entender as caracterist
 	* Aumenta quanto menor a razão entre o diâmetro do leito e das partículas
 	* Pode ser impeditiva em leitos muito pequenos (D/d<10) dependendo das caracteristícas das partículas
 * Velocidade mínima de borbulhamento ($U_{mb}$)
+	* Borbulhamento de gás
 	* Semelhante à $U_{mf}$ 
 	* Pode ser menor que $U_{mf}$ em alguns casos de leitos com diâmetros muito reduzidos
+* 
 
 Apresenta correlações experimentais sobre velocidades de mínima fluidização $U_{mf}$ , borbulhamento $U_{mb}$ , e outras velocidades de interesse para leitos estreitos
