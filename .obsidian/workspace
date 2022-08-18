@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/Untitled.md",
+            "file": "Zettelkasten/Micro Fluidized Bed Reaction Analyzer.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Untitled.md",
+                "file": "Zettelkasten/Micro Fluidized Bed Reaction Analyzer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,15 @@
   },
   "active": "e7c682a2b1241049",
   "lastOpenFiles": [
+    "Zettelkasten/Vantagens micro leito fluidizado.md",
+    "Zettelkasten/variação de pressão fluidização.md",
+    "Zettelkasten/Micro Fluidized Bed Reaction Analyzer.md",
     "Zettelkasten/Gas back mixing.md",
     "Zettelkasten/Aplicações.md",
     "Bibliography/@StateoftheartHydrodynamicsGassolid.md",
-    "Zettelkasten/variação de pressão fluidização.md",
-    "Zettelkasten/Vantagens micro leito fluidizado.md",
     "Bibliography/@qieCharacteristicsApplicationsMicro2022.md",
     "Bibliography/@ejeianDesignApplicationsMEMS2019.md",
     "Bibliography/@cunezCrystallizationJammingNarrow2020.md",
-    "Zettelkasten/Teste.md",
-    "Zettelkasten/Resultados.md"
+    "Zettelkasten/Teste.md"
   ]
 }
