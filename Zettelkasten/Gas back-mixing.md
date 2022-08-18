@@ -8,10 +8,7 @@ Tags: #MFB
 
 Related to the permanence time of the gas in the fluidized bed. Less back-mixing (less average time the gas spends in the bed) leads to more control of the reactions, to obtain intermediate products for example.
 
-Measured
-
-
-
+Measured experimentally trhough  the concentration after the bed of a marker gas injected in a pulse. The more disperse the exit pulse, more back-mixing ocurred.
 
 
 
