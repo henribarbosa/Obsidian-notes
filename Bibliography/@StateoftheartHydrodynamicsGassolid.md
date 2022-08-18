@@ -27,6 +27,7 @@ Compilação de resultados experimentais anteriores para entender as caracterist
 	* Pode ser menor que $U_{mf}$ em alguns casos de leitos com diâmetros muito reduzidos
 * Velocidade mínima de fluidização turbulenta ($U_c$)
 	* Semelhante às outras velocidades, aumenta por causa da interferência da parede
-	* 
+* "Gas backmixing"
+	* Baixo tempo de residência do gás comparado à leitos maiores, 
 
 Apresenta correlações experimentais sobre velocidades de mínima fluidização $U_{mf}$ , borbulhamento $U_{mb}$ , e outras velocidades de interesse para leitos estreitos
