@@ -9,6 +9,9 @@ Uso de micro leitos fluidizados como reatores químicos (reações químicas) co
 * Aquecimento e tranferência de massa mais rápidos
 * Temperatura uniforme
 
-Compilação de resultados experimentais anteriores para entender as caracteristícas da f
+Compilação de resultados experimentais anteriores para entender as caracteristícas da fluidização em leitos de diâmetro até ~10mm
+* Queda de pressão no leito
+	* ![[Pasted image 20220818092716.png]]
+	* A diferença entre 
 
 Apresenta correlações sobre velocidades de mínima fluidização $U_{mf}$ , borbulhamento $U_{mb}$ , e outras velocidades de interesse para leitos estreitos
