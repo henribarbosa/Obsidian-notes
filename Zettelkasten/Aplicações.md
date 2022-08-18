@@ -2,7 +2,7 @@
 
 Status: #idea
 
-Tags:
+Tags: #MFB #FB
 
 # Aplicações
 Relacionados à leitos comuns

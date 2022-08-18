@@ -7,12 +7,8 @@
         "id": "e37f09f6ec8d0ba4",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/Gas back-mixing.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Gas back-mixing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +109,15 @@
   },
   "active": "e37f09f6ec8d0ba4",
   "lastOpenFiles": [
+    "Zettelkasten/variação de pressão fluidização.md",
+    "Zettelkasten/Vantagens micro leito fluidizado.md",
+    "Zettelkasten/Aplicações.md",
+    "Zettelkasten/Gas back-mixing.md",
     "Bibliography/@StateoftheartHydrodynamicsGassolid.md",
     "Bibliography/@qieCharacteristicsApplicationsMicro2022.md",
     "Bibliography/@ejeianDesignApplicationsMEMS2019.md",
     "Bibliography/@cunezCrystallizationJammingNarrow2020.md",
-    "Zettelkasten/Aplicações.md",
-    "Zettelkasten/Vantagens micro leito fluidizado.md",
-    "Zettelkasten/variação de pressão fluidização.md",
     "Zettelkasten/Teste.md",
-    "Zettelkasten/Resultados.md",
-    "Zettelkasten/Parametros.md"
+    "Zettelkasten/Resultados.md"
   ]
 }
