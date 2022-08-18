@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bibliography/@StateoftheartHydrodynamicsGassolid.md",
+            "file": "Zettelkasten/Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2c54cf20d5a2c280",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bibliography/@StateoftheartHydrodynamicsGassolid.md",
+                "file": "Zettelkasten/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,8 +112,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e37f09f6ec8d0ba4",
+  "active": "eab1af7408c4ed98",
   "lastOpenFiles": [
+    "Bibliography/@StateoftheartHydrodynamicsGassolid.md",
     "Bibliography/@qieCharacteristicsApplicationsMicro2022.md",
     "Bibliography/@ejeianDesignApplicationsMEMS2019.md",
     "Bibliography/@cunezCrystallizationJammingNarrow2020.md",
@@ -123,7 +123,6 @@
     "Zettelkasten/variação de pressão fluidização.md",
     "Zettelkasten/Teste.md",
     "Zettelkasten/Resultados.md",
-    "Zettelkasten/Parametros.md",
-    "Bibliography/Liu, van Wachem - 2019 - Comprehensive assessment of the accuracy of CFD-DEM simulations of bubbling fluidized beds.md"
+    "Zettelkasten/Parametros.md"
   ]
 }
