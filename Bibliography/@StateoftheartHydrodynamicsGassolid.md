@@ -23,4 +23,4 @@ Compilação de resultados experimentais anteriores para entender as caracterist
 	* Pode ser impeditiva em leitos muito pequenos (D/d<10) dependendo das caracteristícas das partículas
 	* 
 
-Apresenta correlações sobre velocidades de mínima fluidização $U_{mf}$ , borbulhamento $U_{mb}$ , e outras velocidades de interesse para leitos estreitos
+Apresenta correlações experimentais sobre velocidades de mínima fluidização $U_{mf}$ , borbulhamento $U_{mb}$ , e outras velocidades de interesse para leitos estreitos
