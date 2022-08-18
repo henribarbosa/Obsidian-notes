@@ -5,4 +5,6 @@ year:
 ---
 Tags: #correlations
 
+
+
 Apresenta correlações sobre velocidades de mínima fluidização $U_{mf}$ , borbulhamento $U_{mb}$ , e outras velocidades de interesse para leitos estreitos
