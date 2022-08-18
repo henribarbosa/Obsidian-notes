@@ -29,6 +29,7 @@ Compilação de resultados experimentais anteriores para entender as caracterist
 	* Semelhante às outras velocidades, aumenta por causa da interferência da parede
 * "Gas backmixing"
 	* Baixo tempo de residência do gás comparado à leitos maiores, comportamento de plugs
-	* Pouco retorno de gás é ideal para reações que se busca produtos intermediários em que é necessário se controlar o tempo de
+	* Pouco retorno de gás é ideal para reações que se busca produtos intermediários em que é necessário se controlar o tempo de permanência com mais precisão
+	* 
 
 Apresenta correlações experimentais sobre velocidades de mínima fluidização $U_{mf}$ , borbulhamento $U_{mb}$ , e outras velocidades de interesse para leitos estreitos
