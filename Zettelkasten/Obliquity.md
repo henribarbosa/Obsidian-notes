@@ -1,9 +1,9 @@
 
  2022-09-05  13:31
 
-Status: #idea
+Status: #concept 
 
-Tags:
+Tags: #MFB 
 
 # Obliquity
 * main effects
