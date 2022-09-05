@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Obliquity.md",
+            "file": "Zettelkasten/Obliquity.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obliquity.md",
+                "file": "Zettelkasten/Obliquity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e7c682a2b1241049",
+  "active": "eab1af7408c4ed98",
   "lastOpenFiles": [
     "Zettelkasten/Micro Fluidized Bed Reaction Analyzer.md",
     "Zettelkasten/Vantagens micro leito fluidizado.md",

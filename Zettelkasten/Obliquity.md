@@ -6,7 +6,8 @@ Status: #idea
 Tags:
 
 # Obliquity
-
+* main effects
+	* 
 
 
 
