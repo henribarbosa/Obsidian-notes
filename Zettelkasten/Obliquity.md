@@ -19,6 +19,7 @@ Tags:
 
 ---
 # References
+[1]  Influence of Oblique Angle on Hydrodynamics of Gas-Solid Fluidization in Micro fluidized Bed; Xiaofei, Li; Qingdang, Li
 
 
 
