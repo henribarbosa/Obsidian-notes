@@ -7,8 +7,9 @@ Tags:
 
 # Obliquity
 * main effects
-	* Decrease in pressure drop
-	* 
+	* Decrease in pressure drop through the bed [1]
+	* formation of an air channel [1]
+
 
 
 
