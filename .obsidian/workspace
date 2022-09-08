@@ -4,12 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "e7c682a2b1241049",
+        "id": "4503fb3d85b3e0fb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bibliography/@ChaikittisilpAnalysisOfSolidParticleMixing.md",
+            "file": "Templates/Bibliography.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "0533a5af4d2f531f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Templates/MOC.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bibliography/@ChaikittisilpAnalysisOfSolidParticleMixing.md",
+                "file": "Templates/MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,23 +118,72 @@
             }
           }
         ]
+      },
+      {
+        "id": "369f0162b0f4f077",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18af3724de748ddc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Bibliography.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "eab1af7408c4ed98",
+  "floating": {
+    "id": "143259f0c119f63e",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5e198347172d0f09",
+        "type": "window",
+        "children": [
+          {
+            "id": "e7c682a2b1241049",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/MOC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "vertical",
+        "x": 437,
+        "y": 72,
+        "width": 1483,
+        "height": 1008,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "0533a5af4d2f531f",
   "lastOpenFiles": [
+    "Templates/Bibliography.md",
+    "Templates/MOC.md",
+    "Templates/Normal.md",
+    "Bibliography/@cunezCrystallizationJammingNarrow2020.md",
+    "Bibliography/@ChaikittisilpAnalysisOfSolidParticleMixing.md",
     "Bibliography/Liu, van Wachem - 2019 - Comprehensive assessment of the accuracy of CFD-DEM simulations of bubbling fluidized beds.md",
     "Bibliography/@StateoftheartHydrodynamicsGassolid.md",
     "Bibliography/@qieCharacteristicsApplicationsMicro2022.md",
     "Bibliography/@ejeianDesignApplicationsMEMS2019.md",
-    "Bibliography/@cunezCrystallizationJammingNarrow2020.md",
-    "Bibliography/@ChaikittisilpAnalysisOfSolidParticleMixing.md",
-    "Zettelkasten/Obliquity.md",
-    "Zettelkasten/Aplicações.md",
-    "Zettelkasten/Gas back mixing.md",
-    "Zettelkasten/Micro Fluidized Bed Reaction Analyzer.md"
+    "Zettelkasten/Obliquity.md"
   ]
 }
