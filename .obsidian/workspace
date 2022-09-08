@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/MOC.md",
+            "file": "Templates/Bibliography.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/MOC.md",
+                "file": "Templates/Bibliography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,15 +175,15 @@
   },
   "active": "0533a5af4d2f531f",
   "lastOpenFiles": [
-    "Templates/Bibliography.md",
     "Templates/MOC.md",
     "Templates/Normal.md",
+    "Templates/Bibliography.md",
+    "Bibliography/@ejeianDesignApplicationsMEMS2019.md",
     "Bibliography/@cunezCrystallizationJammingNarrow2020.md",
     "Bibliography/@ChaikittisilpAnalysisOfSolidParticleMixing.md",
     "Bibliography/Liu, van Wachem - 2019 - Comprehensive assessment of the accuracy of CFD-DEM simulations of bubbling fluidized beds.md",
     "Bibliography/@StateoftheartHydrodynamicsGassolid.md",
     "Bibliography/@qieCharacteristicsApplicationsMicro2022.md",
-    "Bibliography/@ejeianDesignApplicationsMEMS2019.md",
     "Zettelkasten/Obliquity.md"
   ]
 }
