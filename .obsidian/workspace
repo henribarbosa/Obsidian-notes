@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bibliography/@ChaikittisilpAnalysisOfSolidParticleMixing.md",
+            "file": "IDEAS.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bibliography/@ChaikittisilpAnalysisOfSolidParticleMixing.md",
+                "file": "IDEAS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,10 +132,10 @@
   },
   "active": "81dcdb41c815ef8d",
   "lastOpenFiles": [
+    "Templates/Bibliography.md",
     "IDEAS.md",
     "Bibliography/@ChaikittisilpAnalysisOfSolidParticleMixing.md",
     "Templates/MOC.md",
-    "Templates/Bibliography.md",
     "Templates/Normal.md",
     "Bibliography/@ejeianDesignApplicationsMEMS2019.md",
     "Bibliography/@cunezCrystallizationJammingNarrow2020.md",
