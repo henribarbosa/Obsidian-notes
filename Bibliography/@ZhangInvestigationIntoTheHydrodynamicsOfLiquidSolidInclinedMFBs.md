@@ -19,4 +19,5 @@ Year : 2022
 
 * Results
 	* Greater angles decrease bed expansion ($H_N$) more proeminent with smaller particles
+	* Greater velocity ($U_{L,N}$) to form a region with lower particle fraction
 
