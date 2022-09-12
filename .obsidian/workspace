@@ -132,15 +132,15 @@
   },
   "active": "81dcdb41c815ef8d",
   "lastOpenFiles": [
-    "Zettelkasten/IDEAS.md",
-    "Zettelkasten/Obliquity.md",
-    "Templates/Bibliography.md",
     "Bibliography/@ChaikittisilpAnalysisOfSolidParticleMixing.md",
-    "Templates/MOC.md",
-    "Templates/Normal.md",
-    "Bibliography/@ejeianDesignApplicationsMEMS2019.md",
     "Bibliography/@cunezCrystallizationJammingNarrow2020.md",
+    "Bibliography/@ejeianDesignApplicationsMEMS2019.md",
+    "Bibliography/@qieCharacteristicsApplicationsMicro2022.md",
+    "Bibliography/@StateoftheartHydrodynamicsGassolid.md",
     "Bibliography/Liu, van Wachem - 2019 - Comprehensive assessment of the accuracy of CFD-DEM simulations of bubbling fluidized beds.md",
-    "Bibliography/@StateoftheartHydrodynamicsGassolid.md"
+    "Zettelkasten/Obliquity.md",
+    "Zettelkasten/IDEAS.md",
+    "Templates/Bibliography.md",
+    "Templates/MOC.md"
   ]
 }
