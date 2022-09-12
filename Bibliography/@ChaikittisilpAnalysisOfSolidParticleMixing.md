@@ -2,11 +2,12 @@
 
 ---
 Title :  Analysis of solid particle mixing in inclined fluidized beds using DEM simulation
-Authors :  
-Year : 
+Authors :  Watcharop Chaikittisilp, Teerapong Taenumtrakul, Peeravuth Boonsuwan, Wiwut Tanthapanichakoon, Tawatchai Charinpanitkul
+Year :  2006
 
 ---
 
+The author uses CFD-DEM to investigate the dynamic of inclined fluidized beds.
 
 
 
