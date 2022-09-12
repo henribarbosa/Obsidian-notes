@@ -9,7 +9,8 @@ Year :  2006
 
 * The author uses CFD-DEM to investigate the dynamic of inclined fluidized beds.
 * Drag correlation: Wen and Yu
-* 20000 particles; D/d ~ 
+* 20000 particles; D/d ~ 40, monodispersed
+* 
 
 
 
