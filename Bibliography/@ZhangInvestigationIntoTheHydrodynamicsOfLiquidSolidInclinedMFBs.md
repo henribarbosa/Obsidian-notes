@@ -12,5 +12,11 @@ Year : 2022
 	* 0-10° inclination
 	* 85 and 165$\mu m$ particles
 
+* Definitions
+	* Normalized bed height: $H_N = \frac{H - H_0}{H_0}$
+	* Normalized liquid velocity: 
+
+
 * Results
+	* Greater angles decrease bed expansion
 
