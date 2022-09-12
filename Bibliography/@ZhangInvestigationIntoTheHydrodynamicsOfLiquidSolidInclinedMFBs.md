@@ -14,9 +14,9 @@ Year : 2022
 
 * Definitions
 	* Normalized bed height: $H_N = \frac{H - H_0}{H_0}$
-	* Normalized liquid velocity: 
+	* Normalized liquid velocity: $U_{L,N} = \frac{U_L - U_{mf}}{U_{mf}}$
 
 
 * Results
-	* Greater angles decrease bed expansion
+	* Greater angles decrease bed expansion ($H_N$) more proeminent with smaller particles
 
