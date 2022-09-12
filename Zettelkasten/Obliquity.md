@@ -23,7 +23,7 @@ Tags: [[MFB]]
 # References
 {1} [[ Influence of Oblique Angle on Hydrodynamics of Gas-Solid Fluidization in Micro fluidized Bed; Xiaofei, Li; Qingdang, Li]]
 {2} [[@ChaikittisilpAnalysisOfSolidParticleMixing]]
-{3} [[@ZhangInvestigation]]
+{3} [[@ZhangInvestigationIntoTheHydrodynamicsOfLiquidSolidInclinedMFBs]]
 
 
 
