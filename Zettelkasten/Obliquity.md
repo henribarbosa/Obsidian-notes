@@ -11,7 +11,7 @@ Tags: [[MFB]]
 	* formation of an air channel {1}
 	* Circulation of solids {2}
 * for MFBs
-	* Decrease of bed expansion, for the same 
+	* Decrease of bed expansion, for the same fluid velocity {3}
 
 
 
@@ -23,7 +23,7 @@ Tags: [[MFB]]
 # References
 {1} [[ Influence of Oblique Angle on Hydrodynamics of Gas-Solid Fluidization in Micro fluidized Bed; Xiaofei, Li; Qingdang, Li]]
 {2} [[@ChaikittisilpAnalysisOfSolidParticleMixing]]
-
+{3} [[@ZhangInvestigation]]
 
 
 
