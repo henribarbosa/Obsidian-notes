@@ -7,8 +7,9 @@ Tags: [[MFB]]
 
 # Obliquity
 * main effects
-	* Decrease in pressure drop through the bed [1]
-	* formation of an air channel [1]
+	* Decrease in pressure drop through the bed {1}
+	* formation of an air channel {1}
+	* Circulation of solids {2}
 
 
 
@@ -19,7 +20,7 @@ Tags: [[MFB]]
 
 ---
 # References
-[1]  Influence of Oblique Angle on Hydrodynamics of Gas-Solid Fluidization in Micro fluidized Bed; Xiaofei, Li; Qingdang, Li
+{1}  Influence of Oblique Angle on Hydrodynamics of Gas-Solid Fluidization in Micro fluidized Bed; Xiaofei, Li; Qingdang, Li
 
 
 

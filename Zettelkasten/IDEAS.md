@@ -7,7 +7,8 @@ Tags: [[toInvestigate]]
 # IDEAS
 * How does the bidispersed bed circulates? {1} 
 	* With or without mixing?
-	* Is there a critical angle or velocity that changes de behaviour?
+	* Is there a critical angle or velocity that changes de behaviour? [[Obliquity]]
+
 
 
 
