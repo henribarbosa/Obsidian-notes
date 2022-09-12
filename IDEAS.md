@@ -5,7 +5,7 @@ Status: [[idea]]
 Tags: [[toInvestigate]]
 
 # IDEAS
-* How does the bidispersed bed circulates? [[@ChaikittisilpAnalysisOfSolidParticleMixing]]
+* How does the bidispersed bed circulates? {1} 
 	* With or without mixing?
 	* Is there a critical angle or velocity that changes de behaviour?
 
@@ -17,4 +17,5 @@ Tags: [[toInvestigate]]
 
 ---
 # References
+{1} [[@ChaikittisilpAnalysisOfSolidParticleMixing]]
 
