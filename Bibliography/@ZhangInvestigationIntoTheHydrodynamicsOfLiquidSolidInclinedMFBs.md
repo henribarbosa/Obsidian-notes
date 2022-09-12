@@ -7,5 +7,10 @@ Year : 2022
 
 ---
 
+* Experimental setup
+	* 1mm and 4mm beds
+	* 0-10° inclination
+	* 85 and 165$\mu m$ particles
 
+* Results
 
