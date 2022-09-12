@@ -3,7 +3,7 @@ title: State-of-the-art hydrodynamics of gas-solid micro fluidized beds | Elsevi
 authors: 
 year: 2020
 ---
-Tags: #correlations #uses
+Tags: [[correlations]] [[uses]]
 
 Uso de micro leitos fluidizados como reatores químicos (reações químicas) com as vantagens:
 * Aquecimento e tranferência de massa mais rápidos

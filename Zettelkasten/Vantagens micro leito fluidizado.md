@@ -1,8 +1,8 @@
  2022-03-26  17:47
 
-Status: #idea
+Status: [[idea]]
 
-Tags: #MFB 
+Tags: [[MFB]] 
 
 # Vantagens micro leito fluidizado
 

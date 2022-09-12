@@ -1,8 +1,8 @@
  2022-03-26  17:57
 
-Status: #idea
+Status: [[idea]]
 
-Tags: #MFB #FB
+Tags: [[MFB]] [[FB]]
 
 # Aplicações
 Relacionados à leitos comuns

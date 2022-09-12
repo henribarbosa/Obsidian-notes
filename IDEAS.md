@@ -1,8 +1,8 @@
  2022-09-12  12:29
 
-Status: #idea 
+Status: [[idea]] 
 
-Tags: #toInvestigate
+Tags: [[toInvestigate]]
 
 # IDEAS
 * How does the bidispersed bed circulates? [[@ChaikittisilpAnalysisOfSolidParticleMixing]]

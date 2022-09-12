@@ -1,6 +1,6 @@
 {{date:YYYY-MM-DD}} {{time:HH:mm}}
 
-Status: #MOC
+Status: [[MOC]]
 
 Tags:
 
