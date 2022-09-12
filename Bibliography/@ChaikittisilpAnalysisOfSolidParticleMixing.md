@@ -12,7 +12,7 @@ Year :  2006
 * 20000 particles; D/d ~ 40, monodispersed
 * Reported results:
 	* Minimum fluidization velocity ($U_{mf}$)
-	* Fraction of 
+	* Fraction of fluidization
 
 
 
