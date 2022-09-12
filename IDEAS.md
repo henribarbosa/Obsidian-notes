@@ -5,7 +5,9 @@ Status: #idea
 Tags: #toInvestigate
 
 # IDEAS
-* How circulation occ
+* How does the bidispersed bed circulates? [[@ChaikittisilpAnalysisOfSolidParticleMixing]]
+	* With or without mixing?
+	* Is there a critical angle or velocity that changes de behaviour?
 
 
 
