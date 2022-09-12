@@ -10,7 +10,8 @@ Tags: [[MFB]]
 	* Decrease in pressure drop through the bed {1}
 	* formation of an air channel {1}
 	* Circulation of solids {2}
-
+* for MFBs
+	* Decrease of bed expansion, for the same 
 
 
 
