@@ -13,6 +13,8 @@ Year :  2006
 * Reported results:
 	* Minimum fluidization velocity ($U_{mf}$)
 	* Fraction of fluidization
+	* Particle mixing
+	* Circulating phenomenon
 
 
 
