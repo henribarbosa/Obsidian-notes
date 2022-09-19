@@ -9,4 +9,5 @@ Year : 1992
 
 Small inclinations ~1,5° improves the performance of the bed:
 	The bed contracts
+	Mass and heat transfer coeficients improves
 
