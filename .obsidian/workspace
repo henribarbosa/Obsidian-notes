@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bibliography/@ZhangInvestigationIntoTheHydrodynamicsOfLiquidSolidInclinedMFBs.md",
+            "file": "@DelPozoEffectofColumnInclination.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bibliography/@ZhangInvestigationIntoTheHydrodynamicsOfLiquidSolidInclinedMFBs.md",
+                "file": "@DelPozoEffectofColumnInclination.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,8 +132,8 @@
   },
   "active": "81dcdb41c815ef8d",
   "lastOpenFiles": [
-    "Zettelkasten/Obliquity.md",
     "Bibliography/@ZhangInvestigationIntoTheHydrodynamicsOfLiquidSolidInclinedMFBs.md",
+    "Zettelkasten/Obliquity.md",
     "Bibliography/@ChaikittisilpAnalysisOfSolidParticleMixing.md",
     "Bibliography/@cunezCrystallizationJammingNarrow2020.md",
     "Bibliography/@ejeianDesignApplicationsMEMS2019.md",
