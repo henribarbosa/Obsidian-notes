@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "81dcdb41c815ef8d",
+        "id": "65dcd8847a42fafb",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -130,17 +130,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "81dcdb41c815ef8d",
+  "active": "65dcd8847a42fafb",
   "lastOpenFiles": [
+    "Templates/Bibliography.md",
+    "Bibliography/Influence of Oblique Angle on Hydrodynamics of Gas-Solid Fluidization in Micro fluidized Bed; Xiaofei, Li; Qingdang, Li.md",
+    "Zettelkasten/Obliquity.md",
     "Bibliography/@DelPozoEffectofColumnInclination.md",
     "Bibliography/@ZhangInvestigationIntoTheHydrodynamicsOfLiquidSolidInclinedMFBs.md",
-    "Zettelkasten/Obliquity.md",
     "Bibliography/@ChaikittisilpAnalysisOfSolidParticleMixing.md",
     "Bibliography/@cunezCrystallizationJammingNarrow2020.md",
     "Bibliography/@ejeianDesignApplicationsMEMS2019.md",
     "Bibliography/@qieCharacteristicsApplicationsMicro2022.md",
-    "Bibliography/@StateoftheartHydrodynamicsGassolid.md",
-    "Bibliography/Liu, van Wachem - 2019 - Comprehensive assessment of the accuracy of CFD-DEM simulations of bubbling fluidized beds.md",
-    "Zettelkasten/IDEAS.md"
+    "Bibliography/@StateoftheartHydrodynamicsGassolid.md"
   ]
 }
