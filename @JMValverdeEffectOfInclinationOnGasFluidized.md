@@ -7,5 +7,7 @@ Year : 2007
 
 ---
 
-* Investigation of packing in inclined fluidized bed
+* Investigation of packing in inclined fluidized bed of Gedart type C' particles (particles with cohesion, but fluidize in aglomerates)
+* Inclination reduces velocity of sedimentaion
+* 
 
