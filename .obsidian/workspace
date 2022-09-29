@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/Obliquity.md",
+            "file": "Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Obliquity.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,9 +132,9 @@
   },
   "active": "65dcd8847a42fafb",
   "lastOpenFiles": [
+    "Zettelkasten/Obliquity.md",
     "Templates/Bibliography.md",
     "Bibliography/Influence of Oblique Angle on Hydrodynamics of Gas-Solid Fluidization in Micro fluidized Bed; Xiaofei, Li; Qingdang, Li.md",
-    "Zettelkasten/Obliquity.md",
     "Bibliography/@DelPozoEffectofColumnInclination.md",
     "Bibliography/@ZhangInvestigationIntoTheHydrodynamicsOfLiquidSolidInclinedMFBs.md",
     "Bibliography/@ChaikittisilpAnalysisOfSolidParticleMixing.md",
