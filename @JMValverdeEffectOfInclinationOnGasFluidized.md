@@ -9,5 +9,6 @@ Year : 2007
 
 * Investigation of packing in inclined fluidized bed of Gedart type C' particles (particles with cohesion, but fluidize in aglomerates)
 * Inclination reduces velocity of sedimentaion
-* 
+* Explores heterogenity of fluidization
+* Mentions that circulation prevents segregation
 

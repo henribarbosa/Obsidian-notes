@@ -6,8 +6,9 @@ Tags: [[toInvestigate]]
 
 # IDEAS
 * How does the bidispersed bed circulates? {1} 
-	* With or without mixing?
+	* With or without mixing? {2}
 	* Is there a critical angle or velocity that changes de behaviour? [[Obliquity]]
+	* 
 
 
 
@@ -19,4 +20,4 @@ Tags: [[toInvestigate]]
 ---
 # References
 {1} [[@ChaikittisilpAnalysisOfSolidParticleMixing]]
-
+{2} [[@JMValverdeEffectOfInclinationOnGasFluidized]]
