@@ -8,7 +8,7 @@ Tags: [[toInvestigate]]
 * How does the bidispersed bed circulates? {1} 
 	* With or without mixing? {2}
 	* Is there a critical angle or velocity that changes de behaviour? [[Obliquity]]
-	* 
+	* Direction of "vorticity" of the particles
 
 
 
