@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bibliography/@DPODeaTheEffectOfInclination.md",
+            "file": "Zettelkasten/IDEAS.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bibliography/@DPODeaTheEffectOfInclination.md",
+                "file": "Zettelkasten/IDEAS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,15 +132,15 @@
   },
   "active": "eab1af7408c4ed98",
   "lastOpenFiles": [
+    "Zettelkasten/Obliquity.md",
+    "Bibliography/@DPODeaTheEffectOfInclination.md",
     "Bibliography/@JMValverdeEffectOfInclinationOnGasFluidized.md",
     "Zettelkasten/IDEAS.md",
-    "Zettelkasten/Obliquity.md",
     "Templates/Bibliography.md",
     "Bibliography/Influence of Oblique Angle on Hydrodynamics of Gas-Solid Fluidization in Micro fluidized Bed; Xiaofei, Li; Qingdang, Li.md",
     "Bibliography/@DelPozoEffectofColumnInclination.md",
     "Bibliography/@ZhangInvestigationIntoTheHydrodynamicsOfLiquidSolidInclinedMFBs.md",
     "Bibliography/@ChaikittisilpAnalysisOfSolidParticleMixing.md",
-    "Bibliography/@cunezCrystallizationJammingNarrow2020.md",
-    "Bibliography/@ejeianDesignApplicationsMEMS2019.md"
+    "Bibliography/@cunezCrystallizationJammingNarrow2020.md"
   ]
 }

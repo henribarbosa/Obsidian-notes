@@ -8,7 +8,7 @@ Tags: [[MFB]]
 # Obliquity
 * main effects
 	* Decrease in pressure drop through the bed {1}
-	* formation of an air channel {1}
+	* formation of an air channel {1} {5}
 	* Circulation of solids {2}
 	* Decrease of bed expansion, for the same fluid velocity {4}
 	* Improves mass and heat transfer coeficients {4}
@@ -30,7 +30,7 @@ Tags: [[MFB]]
 {2} [[@ChaikittisilpAnalysisOfSolidParticleMixing]]
 {3} [[@ZhangInvestigationIntoTheHydrodynamicsOfLiquidSolidInclinedMFBs]]
 {4} [[@DelPozoEffectofColumnInclination]]
-
+{5} [[@DPODeaTheEffectOfInclination]]
 
 
 

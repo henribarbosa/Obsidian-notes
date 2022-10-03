@@ -9,6 +9,7 @@ Tags: [[toInvestigate]]
 	* With or without mixing? {2}
 	* Is there a critical angle or velocity that changes de behaviour? [[Obliquity]]
 	* Direction of "vorticity" of the particles
+	* Does it have a change of behaviour with velo
 
 
 
