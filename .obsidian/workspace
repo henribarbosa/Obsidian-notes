@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "@DPODeaTheEffectOfInclination.md",
+            "file": "Bibliography/@DPODeaTheEffectOfInclination.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@DPODeaTheEffectOfInclination.md",
+                "file": "Bibliography/@DPODeaTheEffectOfInclination.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "65dcd8847a42fafb",
+  "active": "eab1af7408c4ed98",
   "lastOpenFiles": [
     "Bibliography/@JMValverdeEffectOfInclinationOnGasFluidized.md",
     "Zettelkasten/IDEAS.md",
