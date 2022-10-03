@@ -11,4 +11,4 @@ Year :  1990
 * Experimental paper
 * Defines a clear transition velocity ($U_{cb}$) at which the bed transition from fixed to a channeling regime, marked by a clear pressure drop and subsequent estabilization
 * Ergun equation remains valid in an inclined fixed bed
-* 
+* Detailed study of the pressure in the channeling regime
