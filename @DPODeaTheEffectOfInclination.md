@@ -9,4 +9,5 @@ Year :  1990
 
 
 * Experimental paper
-* Defines a clear tr
+* Defines a clear transition velocity ($U_{cb}$) at which the bed transition from fixed to a channeling regime, marked by a clear pressure drop and subsequent estabilization
+* 
