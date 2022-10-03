@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bibliography/@JMValverdeEffectOfInclinationOnGasFluidized.md",
+            "file": "@DPODeaTheEffectOfInclination.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bibliography/@JMValverdeEffectOfInclinationOnGasFluidized.md",
+                "file": "@DPODeaTheEffectOfInclination.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,8 +132,8 @@
   },
   "active": "65dcd8847a42fafb",
   "lastOpenFiles": [
-    "Zettelkasten/IDEAS.md",
     "Bibliography/@JMValverdeEffectOfInclinationOnGasFluidized.md",
+    "Zettelkasten/IDEAS.md",
     "Zettelkasten/Obliquity.md",
     "Templates/Bibliography.md",
     "Bibliography/Influence of Oblique Angle on Hydrodynamics of Gas-Solid Fluidization in Micro fluidized Bed; Xiaofei, Li; Qingdang, Li.md",
