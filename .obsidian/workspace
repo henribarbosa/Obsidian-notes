@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bibliography/@DPODeaTheEffectOfInclination.md",
+            "file": "Zettelkasten/variação de pressão fluidização.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bibliography/@DPODeaTheEffectOfInclination.md",
+                "file": "Zettelkasten/variação de pressão fluidização.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,15 +132,15 @@
   },
   "active": "65dcd8847a42fafb",
   "lastOpenFiles": [
-    "Zettelkasten/IDEAS.md",
     "Zettelkasten/Obliquity.md",
-    "Bibliography/@DPODeaTheEffectOfInclination.md",
-    "Bibliography/@JMValverdeEffectOfInclinationOnGasFluidized.md",
-    "Templates/Bibliography.md",
-    "Bibliography/Influence of Oblique Angle on Hydrodynamics of Gas-Solid Fluidization in Micro fluidized Bed; Xiaofei, Li; Qingdang, Li.md",
+    "Zettelkasten/Micro Fluidized Bed Reaction Analyzer.md",
+    "Bibliography/@StateoftheartHydrodynamicsGassolid.md",
+    "Bibliography/@qieCharacteristicsApplicationsMicro2022.md",
     "Bibliography/@DelPozoEffectofColumnInclination.md",
-    "Bibliography/@ZhangInvestigationIntoTheHydrodynamicsOfLiquidSolidInclinedMFBs.md",
-    "Bibliography/@ChaikittisilpAnalysisOfSolidParticleMixing.md",
-    "Bibliography/@cunezCrystallizationJammingNarrow2020.md"
+    "Zettelkasten/Gas back mixing.md",
+    "Bibliography/@DPODeaTheEffectOfInclination.md",
+    "Zettelkasten/IDEAS.md",
+    "Bibliography/@JMValverdeEffectOfInclinationOnGasFluidized.md",
+    "Templates/Bibliography.md"
   ]
 }
