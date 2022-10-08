@@ -9,7 +9,7 @@ Tags: [[toInvestigate]]
 	* With or without mixing? {2}
 	* Is there a critical angle or velocity that changes de behaviour? [[Obliquity]]
 	* Direction of "vorticity" of the particles
-	* Does it have a change of behaviour with velo
+	* Does it have a change of behaviour with velocity (channeling) {3}
 
 
 
@@ -22,3 +22,4 @@ Tags: [[toInvestigate]]
 # References
 {1} [[@ChaikittisilpAnalysisOfSolidParticleMixing]]
 {2} [[@JMValverdeEffectOfInclinationOnGasFluidized]]
+{3} [[@DPODeaTheEffectOfInclination]]
