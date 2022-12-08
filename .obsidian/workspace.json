@@ -4,12 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "39bbadc34e8816d6",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
+        "id": "13e0989e0d5617f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39bbadc34e8816d6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "9d0cec40918e5bb2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.0"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -27,7 +44,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -107,7 +126,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "39bbadc34e8816d6",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "9d0cec40918e5bb2",
   "lastOpenFiles": [
     "Zettelkasten/Teste.md",
     "Zettelkasten/Aplicações.md",
