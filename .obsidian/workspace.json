@@ -11,8 +11,12 @@
             "id": "39bbadc34e8816d6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Relatório baja.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -25,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Relatório baja.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +133,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "9d0cec40918e5bb2",
+  "active": "39bbadc34e8816d6",
   "lastOpenFiles": [
     "Zettelkasten/Teste.md",
     "Zettelkasten/Aplicações.md",
