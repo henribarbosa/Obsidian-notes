@@ -1,2 +1,1 @@
-\textit{}
-\ref{fig:NomeFigura}
+"casinhas"
