@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9d0cec40918e5bb2",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.0"
-              }
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -89,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Relatório baja.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +124,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "9d0cec40918e5bb2",
+  "active": "39bbadc34e8816d6",
   "lastOpenFiles": [
     "Relatório baja.md",
     "Zettelkasten/Teste.md",
