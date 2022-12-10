@@ -8,5 +8,6 @@
     "pt-BR",
     "en-US"
   ],
-  "promptDelete": false
+  "promptDelete": false,
+  "vimMode": true
 }
