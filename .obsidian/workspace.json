@@ -14,19 +14,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "1ef5848acf2c4324",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.3"
-              }
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -127,7 +116,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1ef5848acf2c4324",
+  "active": "39bbadc34e8816d6",
   "lastOpenFiles": [
     "Relatório baja.md",
     "Zettelkasten/Teste.md",
