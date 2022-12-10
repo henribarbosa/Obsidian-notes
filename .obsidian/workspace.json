@@ -94,6 +94,14 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "6c59e7ff9ecbd2be",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
         ]
       },
