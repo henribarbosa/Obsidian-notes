@@ -27,7 +27,8 @@ Tags: [[toInvestigate]]
 	* Save particles trajectories ($t_{ini}$ , $N_{frames}$ , \\n ($x$, $y$,)) in a file when the particle is lost
 * Processing simulations
 	* Compute bed expansion
-	* 
+	* Compute average granular temperature
+	* Compute number os plugs (maybe through solid fraction?)
 * Post-processing
 	* Imput images scale here (easier to fix)
 	* New Python program to compare expansion over time (line graph)
