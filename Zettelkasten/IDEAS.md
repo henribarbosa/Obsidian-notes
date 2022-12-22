@@ -18,9 +18,9 @@ Tags: [[toInvestigate]]
 	* Homogenize the picture (adjust bright and dark for each area)? Remove shadows? 
 	* Try to make then binary keeping the ratio beetwen bright and dark constant inside plugs?
 * Processing
-	* Find column width
-	* Mark bottom and plugs
-	* 
+	* Find column width automatically (for the first frame only)
+	* Mark bottom and plugs (bottom for the first frame only)
+	* Calculate velocity fields ( $x$, )
 
 
 
