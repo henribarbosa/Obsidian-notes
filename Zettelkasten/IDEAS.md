@@ -21,7 +21,8 @@ Tags: [[toInvestigate]]
 	* Find column width automatically (for the first frame only)
 	* Mark bottom and plugs (bottom for the first frame only)
 	* Calculate velocity fields ( $x$, $y$, $v_x$, $v_y$)
-	* Save particles trajectories ($t_{ini}$ , $N_{frames}$ , \n )
+	* Save particles trajectories ($t_{ini}$ , $N_{frames}$ , \n ($x$, $y$,)) in a file when the particle is lost
+* 
 
 
 
