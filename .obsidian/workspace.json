@@ -11,8 +11,12 @@
             "id": "39bbadc34e8816d6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/IDEAS.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -74,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettelkasten/IDEAS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +105,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Zettelkasten/IDEAS.md"
+              }
             }
           }
         ]
@@ -124,7 +131,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "eab1af7408c4ed98",
+  "active": "39bbadc34e8816d6",
   "lastOpenFiles": [
     "Relatório baja.md",
     "Zettelkasten/Teste.md",

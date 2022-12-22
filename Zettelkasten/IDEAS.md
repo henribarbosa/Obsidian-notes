@@ -11,8 +11,11 @@ Tags: [[toInvestigate]]
 	* Direction of "vorticity" of the particles
 	* Does it have a change of behaviour with velocity (channeling) {3}
 
-
-
+# To-do
+* Pre-processing
+	* Ask Danilo what he does
+	* Subtract background
+	* Homogenize 
 
 
 
