@@ -14,6 +14,7 @@ Tags: [[toInvestigate]]
 # To-do
 * Pre-processing
 	* Ask Danilo what he does
+	* Make a new program to 
 	* Subtract background
 	* Homogenize the picture (adjust bright and dark for each area)? Remove shadows? 
 	* Try to make then binary keeping the ratio beetwen bright and dark constant inside plugs?
@@ -22,7 +23,9 @@ Tags: [[toInvestigate]]
 	* Mark bottom and plugs (bottom for the first frame only)
 	* Calculate velocity fields ( $x$, $y$, $v_x$, $v_y$)
 	* Save particles trajectories ($t_{ini}$ , $N_{frames}$ , \\n ($x$, $y$,)) in a file when the particle is lost
-
+* Computing
+	* Fix append() method to run faster
+	* Parallelize hungarian method
 
 
 
