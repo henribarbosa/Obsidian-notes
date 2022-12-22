@@ -11,12 +11,8 @@
             "id": "39bbadc34e8816d6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Relatório baja.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -78,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relatório baja.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,9 +100,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Relatório baja.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -131,7 +124,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "39bbadc34e8816d6",
+  "active": "eab1af7408c4ed98",
   "lastOpenFiles": [
     "Relatório baja.md",
     "Zettelkasten/Teste.md",
