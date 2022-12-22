@@ -15,7 +15,8 @@ Tags: [[toInvestigate]]
 * Pre-processing
 	* Ask Danilo what he does
 	* Subtract background
-	* Homogenize 
+	* Homogenize the picture (adjust bright and dark for each area)? Remove shadows? 
+	* Try to make then binary keeping the ratio beetwen bright and 
 
 
 
