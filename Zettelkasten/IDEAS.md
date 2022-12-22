@@ -16,7 +16,11 @@ Tags: [[toInvestigate]]
 	* Ask Danilo what he does
 	* Subtract background
 	* Homogenize the picture (adjust bright and dark for each area)? Remove shadows? 
-	* Try to make then binary keeping the ratio beetwen bright and 
+	* Try to make then binary keeping the ratio beetwen bright and dark constant inside plugs?
+* Processing
+	* Find column width
+	* Mark bottom and plugs
+	* 
 
 
 
