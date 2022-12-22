@@ -26,7 +26,9 @@ Tags: [[toInvestigate]]
 	* Calculate velocity fields ( $x$, $y$, $v_x$, $v_y$)
 	* Save particles trajectories ($t_{ini}$ , $N_{frames}$ , \\n ($x$, $y$,)) in a file when the particle is lost
 * Post-processing
-	* 
+	* New Python program to compare expansion over time (line graph)
+	* Compare average granular temperature (line graph)
+	* Compare number of
 * Computing
 	* Fix append() method to run faster
 	* Parallelize hungarian method
