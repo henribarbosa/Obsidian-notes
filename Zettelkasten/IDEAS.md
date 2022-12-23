@@ -23,7 +23,7 @@ Tags: [[toInvestigate]]
 * Processing images
 	* Find column width automatically (for the first frame only)
 	* Mark bottom and plugs (bottom for the first frame only) (plugs trough estimated solid fraction?)
-	* Mark layer
+	* Mark layer separation (and maybe the size of the mixture layer)
 	* Calculate velocity fields ( $x$, $y$, $v_x$, $v_y$)
 	* Save particles trajectories ($t_{ini}$ , $N_{frames}$ , \\n ($x$, $y$,)) in a file when the particle is lost
 * Processing simulations
