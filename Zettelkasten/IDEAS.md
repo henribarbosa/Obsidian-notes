@@ -24,7 +24,7 @@ Tags: [[toInvestigate]]
 	* Find column width automatically (for the first frame only)
 	* Mark bottom and plugs (bottom for the first frame only) (plugs trough estimated solid fraction?)
 	* Mark layer separation (and maybe the size of the mixture layer)
-	* Display particle label (1, ...)
+	* Display particle label (different color for the first apearence)
 	* Calculate velocity fields ( $x$, $y$, $v_x$, $v_y$)
 	* Save particles trajectories ($t_{ini}$ , $N_{frames}$ , \\n ($x$, $y$,)) in a file when the particle is lost
 * Processing simulations
@@ -34,9 +34,10 @@ Tags: [[toInvestigate]]
 * Post-processing
 	* Imput images scale here (easier to fix) and all other relevant scales
 	* Read files from previous steps
-	* New Python program to compare expansion over time (line graph)
-	* Compare average granular temperature (line graph)
-	* Compare number of plugs (line graph)
+	* New Python program to compare expansion over time (line graph) --method=expansion
+	* Compare average granular temperature (line graph) --method=temperature
+	* Compare number of plugs (line graph) --method=plugs
+	* --method=all
 * Computing
 	* Fix append() method to run faster
 	* Parallelize hungarian method
