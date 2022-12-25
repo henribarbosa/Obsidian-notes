@@ -39,7 +39,6 @@ Tags: [[toInvestigate]]
 	* Compare number of plugs (line graph) --method=plugs
 	* --method=all
 * Computing
-	* Fix append() method to run faster
 	* Parallelize hungarian method
 
 
