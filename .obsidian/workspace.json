@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f4f29e2385276743",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
-              }
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -153,7 +142,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f4f29e2385276743",
+  "active": "39bbadc34e8816d6",
   "lastOpenFiles": [
     "Relatório baja.md",
     "Zettelkasten/Teste.md",
