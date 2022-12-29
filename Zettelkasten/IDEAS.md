@@ -21,7 +21,7 @@ Tags: [[toInvestigate]]
 	* Homogenize the picture (adjust bright and dark for each area)? Remove shadows? 
 	* Try to make then binary keeping the ratio beetwen bright and dark constant inside plugs?
 * Processing images
-	* Find column width automatically (for the first frame only)
+	* Find column width automatically (for the first frame only) ✅
 	* Mark bottom and plugs (bottom for the first frame only) (plugs trough estimated solid fraction?)
 	* Mark layer separation (and maybe the size of the mixture layer)
 	* Display particle label (different color for the first apearence)
