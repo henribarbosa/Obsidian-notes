@@ -11,11 +11,9 @@
             "id": "39bbadc34e8816d6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Zettelkasten/IDEAS.md",
-                "mode": "source",
-                "source": false
+                "file": "Kanban/Untitled Kanban.md"
               }
             }
           }
@@ -78,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/IDEAS.md",
+                "file": "Kanban/Untitled Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/IDEAS.md"
+                "file": "Kanban/Untitled Kanban.md"
               }
             }
           }
@@ -144,15 +142,15 @@
   },
   "active": "39bbadc34e8816d6",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Untitled.md",
+    "Zettelkasten/IDEAS.md",
     "Relatório baja.md",
     "Zettelkasten/Teste.md",
     "Zettelkasten/Aplicações.md",
     "Zettelkasten/Resultados.md",
     "Zettelkasten/Vantagens micro leito fluidizado.md",
     "Bibliography/Liu, van Wachem - 2019 - Comprehensive assessment of the accuracy of CFD-DEM simulations of bubbling fluidized beds.md",
-    "Templates/Normal.md",
-    "Templates/MOC.md",
-    "Zettelkasten/Parametros.md",
-    "Bibliography/@StateoftheartHydrodynamicsGassolid.md"
+    "Templates/Normal.md"
   ]
 }
