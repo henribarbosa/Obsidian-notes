@@ -6,6 +6,8 @@ kanban-plugin: basic
 
 ## Backlog
 
+- [ ] [[Pre-processing]]
+- [ ] Ask Danilo what to do
 
 
 ## To-do
