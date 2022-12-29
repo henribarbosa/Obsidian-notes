@@ -6,7 +6,7 @@ kanban-plugin: basic
 
 ## Backlog
 
-- [ ] [[Pre-processing]]
+- [ ] [[Pre-processing]]<br><br>* Ask Danilo what to do
 - [ ] Ask Danilo what to do
 - [ ] Homogenize the picture
 - [ ] Try to make it binary
