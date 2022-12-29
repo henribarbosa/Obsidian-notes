@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "39bbadc34e8816d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/IDEAS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "705a11de9d861fa0",
             "type": "leaf",
             "state": {
@@ -30,7 +18,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -155,9 +142,9 @@
   },
   "active": "705a11de9d861fa0",
   "lastOpenFiles": [
-    "Pre-processing.md",
-    "Kanban/Mestrado.md",
     "Zettelkasten/IDEAS.md",
+    "Kanban/Mestrado.md",
+    "Pre-processing.md",
     "Untitled.canvas",
     "Untitled.md",
     "Relatório baja.md",
