@@ -14,10 +14,10 @@ Tags: [[toInvestigate]]
 # To-do
 * Pre-processing images
 	* Ask Danilo what he does
-	* Make a new program to perform this
-		* --method=build_mask
-		* --method=apply_mask
-	* Subtract background
+	* Make a new program to perform this ✅
+		* --method=build_mask ✅
+		* --method=apply_mask ✅
+	* Subtract background ✅
 	* Homogenize the picture (adjust bright and dark for each area)? Remove shadows? 
 	* Try to make then binary keeping the ratio beetwen bright and dark constant inside plugs?
 * Processing images
