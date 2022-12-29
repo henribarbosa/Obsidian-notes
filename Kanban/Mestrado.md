@@ -8,6 +8,8 @@ kanban-plugin: basic
 
 - [ ] [[Pre-processing]]
 - [ ] Ask Danilo what to do
+- [ ] Homogenize the picture
+- [ ] Try to make it binary
 
 
 ## To-do
