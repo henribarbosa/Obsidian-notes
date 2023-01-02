@@ -16,9 +16,8 @@ kanban-plugin: basic
 
 ## To-do
 
-- [ ] Mark plugs
 - [ ] Compute scale
-- [ ] Change path of processed through regex
+- [ ] Homogenize the picture<br>- [ ] Make it binary
 
 
 ## High priority
@@ -27,12 +26,13 @@ kanban-plugin: basic
 
 ## Doing
 
-- [ ] Homogenize the picture<br>- [ ] Make it binary
+- [ ] Mark plugs
 
 
 ## Done
 
 **Complete**
+- [x] Change path of processed through regex
 
 
 
