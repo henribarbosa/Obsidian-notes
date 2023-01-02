@@ -18,6 +18,7 @@ kanban-plugin: basic
 
 - [ ] Mark plugs
 - [ ] Compute scale
+- [ ] Change path of processed through regex
 
 
 ## High priority
