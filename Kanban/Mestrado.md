@@ -17,7 +17,6 @@ kanban-plugin: basic
 ## To-do
 
 - [ ] Homogenize the picture<br>- [ ] Make it binary
-- [ ] Mark interface
 - [ ] Calculate interface spread
 
 
@@ -27,7 +26,7 @@ kanban-plugin: basic
 
 ## Doing
 
-- [ ] Compute scale
+- [ ] Mark interface
 
 
 ## Done
@@ -35,6 +34,7 @@ kanban-plugin: basic
 **Complete**
 - [x] Change path of processed through regex
 - [x] Mark plugs
+- [x] Compute scale
 
 
 
