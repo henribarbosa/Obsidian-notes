@@ -43,6 +43,8 @@ Tags: [[toInvestigate]]
 
 
 
+b1 + w1 / b2 + w2
+b1 + w2
 
 ---
 # References

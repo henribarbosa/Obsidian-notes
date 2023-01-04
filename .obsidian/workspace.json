@@ -11,9 +11,11 @@
             "id": "705a11de9d861fa0",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban/Mestrado.md"
+                "file": "Zettelkasten/IDEAS.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -76,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban/Mestrado.md",
+                "file": "Zettelkasten/IDEAS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban/Mestrado.md"
+                "file": "Zettelkasten/IDEAS.md"
               }
             }
           }
@@ -142,8 +144,8 @@
   },
   "active": "705a11de9d861fa0",
   "lastOpenFiles": [
-    "Zettelkasten/IDEAS.md",
     "Kanban/Mestrado.md",
+    "Zettelkasten/IDEAS.md",
     "Pre-processing.md",
     "Untitled.canvas",
     "Untitled.md",
