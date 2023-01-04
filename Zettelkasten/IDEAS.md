@@ -44,8 +44,7 @@ Tags: [[toInvestigate]]
 
 
 b1 + w1 / b2 + w2
-b1 + w2 = w2 + (t - w1 -b2 - w2) = t - w1 - b2
-w1 - w2
+b1 + w2 = w2 + (t - w1 -b2 - w2) = t - w1 - b2 = t - wt +w2 -b2
 
 ---
 # References
